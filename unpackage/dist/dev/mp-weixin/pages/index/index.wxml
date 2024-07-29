@@ -1,0 +1,1 @@
+<view class="home-page"><swiper indicator-dots="{{true}}" autoplay="{{true}}" circular class="home-swiper"><swiper-item wx:for="{{a}}" wx:for-item="pic" wx:key="c"><image src="{{pic.a}}" bindtap="{{pic.b}}"></image></swiper-item></swiper></view>
